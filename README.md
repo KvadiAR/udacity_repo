@@ -6,19 +6,33 @@ Task 1: Vim Shortcuts
 3. a - used to enter edit mode
 4. esc - used to enter command mode
      	4a. :q - quits the editor
+   
  	4b. :wq - save changes and quits the editor
+   
 	4c. :q! - quits without saving any new changes
+
 	4d. :w - Write to file called [file_name] (save as).
-	4e. :w! - Overwrite to file called [file_name] (save as forcefully). 
+
+	4e. :w! - Overwrite to file called [file_name] (save as forcefully).
+
 	4f. :set number - set line number
+
 	    :set nu
+   
 	4g. :set nonumber - remove line number
+
 	    :set nonu
+   
 	4h. :syntax on
+
 	4i. : A - moves cursor to end of line and switches to Insert mode
+
 	4j. : $ - moves cursor to end of line and remains in command mode
+
 	4k. : I - moves cursor to start of line and switches to Insert mode
+
 	4l. : 0 - moves cursor to start of line and remains in command mode
+
 	 
 Task 2: list git commands
 1. git clone - used to create a local copy of the remote repository
