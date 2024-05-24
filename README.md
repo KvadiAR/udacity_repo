@@ -17,11 +17,11 @@ Task 1: Vim Shortcuts
 
 	4f. :set number - set line number
 
-	    :set nu
+	    :set nu - set line number
    
 	4g. :set nonumber - remove line number
 
-	    :set nonu
+	    :set nonu - remove line number
    
 	4h. :syntax on
 
