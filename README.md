@@ -41,3 +41,5 @@ Task 2: list git commands
 4. git add - used to stage changes for commit
 5. git commit - used to save changes to the local repository
 6. git push - used to upload all commits to a local repository
+7. git push --set-upstream origin <branch_name>
+
